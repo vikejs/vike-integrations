@@ -2,6 +2,8 @@ List of potential Vike extensions and/or Bati integrations.
 
 Let's mostly focus on React. Although we can also consider highly profilic Vue tools such as Pinia.
 
+## Tools
+
 **Sorted by npm downloads.**
 
 - [TailwindCSS](https://tailwindcss.com) ([11M](https://www.npmjs.com/package/tailwindcss))
@@ -11,7 +13,8 @@ Let's mostly focus on React. Although we can also consider highly profilic Vue t
   - Bati: ??
   - Extension: [WIP](https://github.com/vikejs/vike-react/pull/57/files), BLOCKED (Vike Extension should be able to add Vite plugins)
 
-TODO:
+## TODO
+
  - Add tools to the list above
  - Implement Vike extensions and/or Bati integrations, depending on:
    - How popular is the tool?
