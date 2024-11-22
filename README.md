@@ -9,9 +9,27 @@ Let's mostly focus on React. Although we can also consider highly profilic Vue t
 - [TailwindCSS](https://tailwindcss.com) ([11M](https://www.npmjs.com/package/tailwindcss))
   - Bati: DONE
   - Extension: ??
+- [@tanstack/react-query](https://tanstack.com/query/latest/docs/framework/react/overview) ([4.7M](https://www.npmjs.com/package/@tanstack/react-query))
+  - Bati: ??
+  - Extension: [vike-react-query](https://www.npmjs.com/package/vike-react-query)
 - [Zustand](https://github.com/pmndrs/zustand) ([4.5M](https://www.npmjs.com/package/zustand))
   - Bati: ??
   - Extension: [WIP](https://github.com/vikejs/vike-react/pull/57/files), BLOCKED (Vike Extension should be able to add Vite plugins)
+- [Apollo GraphQL](https://www.apollographql.com/docs/react) ([3.5M](https://www.npmjs.com/package/@apollo/client))
+  - Bati: ??
+  - Extension: [vike-react-apollo](https://www.npmjs.com/package/vike-react-apollo)
+- [Pinia](https://pinia.vuejs.org) ([1.6M](https://www.npmjs.com/package/pinia))
+  - Bati: ??
+  - Extension: [vike-vue-pinia](https://www.npmjs.com/package/vike-vue-pinia)
+- [Chakra UI](https://www.chakra-ui.com) ([641K](https://www.npmjs.com/package/@chakra-ui/react))
+  - Bati: ??
+  - Extension: [vike-react-chakra](https://www.npmjs.com/package/vike-react-chakra)
+- [@tanstack/vue-query](https://tanstack.com/query/latest/docs/framework/vue/overview) ([153K](https://www.npmjs.com/package/@tanstack/vue-query))
+  - Bati: ??
+  - Extension: [vike-vue-query](https://www.npmjs.com/package/vike-vue-query)
+- [@tanstack/solid-query](https://tanstack.com/query/latest/docs/framework/solid/overview) ([11.8K](https://www.npmjs.com/package/@tanstack/solid-query))
+  - Bati: ??
+  - Extension: [vike-solid-query](https://www.npmjs.com/package/vike-solid-query)
 
 ## TODO
 
