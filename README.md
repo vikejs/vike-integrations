@@ -9,7 +9,7 @@ Let's mostly focus on React. Although we can also consider highly profilic Vue t
 - [TailwindCSS](https://tailwindcss.com) ([11M](https://www.npmjs.com/package/tailwindcss))
   - Bati: DONE
   - Extension: ??
-- [Redux](https://redux.dev) ([11M](https://www.npmjs.com/package/redux))
+- [Redux](https://redux.js.org) ([11M](https://www.npmjs.com/package/redux))
   - Bati: ??
   - Extension: ??
 - [styled-components](https://styled-components.com) ([5.7M](https://www.npmjs.com/package/styled-components))
