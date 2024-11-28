@@ -1,6 +1,6 @@
 List of potential Vike extensions and/or Bati integrations.
 
-Let's mostly focus on React. Although we can also consider highly profilic Vue tools such as Pinia.
+Let's mostly focus on React for now. Although we can also consider highly profilic Vue tools such as Pinia.
 
 ## Tools
 
