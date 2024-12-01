@@ -33,9 +33,9 @@ Let's mostly focus on React for now. Although we can also consider highly profil
 - [Pinia](https://pinia.vuejs.org) ([1.6M](https://www.npmjs.com/package/pinia))
   - Bati: ??
   - Extension: [vike-vue-pinia](https://www.npmjs.com/package/vike-vue-pinia)
-- [Ant Design](https://ant.design) ([1.6M](https://www.npmjs.com/package/antd))
+- [Ant Design](https://ant.design) ([1.5M](https://www.npmjs.com/package/antd))
   - Bati: ??
-  - Extension: ??
+  - Extension: [vike-react-antd](https://www.npmjs.com/package/vike-react-antd)
 - [Jotai](https://jotai.org) ([1M](https://www.npmjs.com/package/jotai))
   - Bati: ??
   - Extension: ??
