@@ -42,6 +42,9 @@ Let's mostly focus on React for now. Although we can also consider highly profil
 - [Jotai](https://jotai.org) ([1M](https://www.npmjs.com/package/jotai))
   - Bati: ??
   - Extension: ??
+  - [Solid Jotai](https://github.com/wobsoriano/solid-jotai) ([npm](https://www.npmjs.com/package/solid-jotai))
+    - Bati: ??
+    - Extension: ??
 - [mobx-react](https://mobx.js.org/) ([1M](https://www.npmjs.com/package/mobx-react))
   - Bati: ??
   - Extension: ??
