@@ -12,9 +12,9 @@ Let's mostly focus on React for now. Although we can also consider highly profil
 - [Redux](https://redux.js.org) ([11M](https://www.npmjs.com/package/redux))
   - Bati: ??
   - Extension: ??
-- [styled-jsx](https://github.com/vercel/styled-jsx) ([6.7M](https://www.npmjs.com/package/styled-jsx))
+- [styled-jsx](https://github.com/vercel/styled-jsx) ([7.3M](https://www.npmjs.com/package/styled-jsx))
   - Bati: ??
-  - Extension: ??
+  - Extension: [vike-react-styled-jsx](https://www.npmjs.com/package/vike-react-styled-jsx)
 - [styled-components](https://styled-components.com) ([5.1M](https://www.npmjs.com/package/styled-components))
   - Bati: ??
   - Extension: [vike-react-styled-components](https://www.npmjs.com/package/vike-react-styled-components)
