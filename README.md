@@ -6,55 +6,55 @@ Let's mostly focus on React for now. Although we can also consider highly profil
 
 **Sorted by npm downloads.**
 
-- [TailwindCSS](https://tailwindcss.com) ([11M](https://www.npmjs.com/package/tailwindcss))
+- [TailwindCSS](https://tailwindcss.com) [![npm downloads](https://img.shields.io/npm/dw/tailwindcss.svg?style=flat-square)](https://www.npmjs.com/package/tailwindcss)
   - Bati: DONE
   - Extension: ??
-- [Redux](https://redux.js.org) ([11M](https://www.npmjs.com/package/redux))
+- [Redux](https://redux.js.org) [![npm downloads](https://img.shields.io/npm/dw/redux.svg?style=flat-square)](https://www.npmjs.com/package/redux)
   - Bati: ??
-  - Extension: ??
-- [styled-jsx](https://github.com/vercel/styled-jsx) ([7.3M](https://www.npmjs.com/package/styled-jsx))
+  - Extension: [vike-react-redux](https://www.npmjs.com/package/vike-react-redux)
+- [styled-jsx](https://github.com/vercel/styled-jsx) [![npm downloads](https://img.shields.io/npm/dw/styled-jsx.svg?style=flat-square)](https://www.npmjs.com/package/styled-jsx)
   - Bati: ??
   - Extension: [vike-react-styled-jsx](https://www.npmjs.com/package/vike-react-styled-jsx)
-- [styled-components](https://styled-components.com) ([5.1M](https://www.npmjs.com/package/styled-components))
-  - Bati: ??
-  - Extension: [vike-react-styled-components](https://www.npmjs.com/package/vike-react-styled-components)
-- [@tanstack/react-query](https://tanstack.com/query/latest/docs/framework/react/overview) ([4.7M](https://www.npmjs.com/package/@tanstack/react-query))
+- [@tanstack/react-query](https://tanstack.com/query/latest/docs/framework/react/overview) [![npm downloads](https://img.shields.io/npm/dw/@tanstack/react-query.svg?style=flat-square)](https://www.npmjs.com/package/@tanstack/react-query)
   - Bati: ??
   - Extension: [vike-react-query](https://www.npmjs.com/package/vike-react-query)
-- [Zustand](https://github.com/pmndrs/zustand) ([4.5M](https://www.npmjs.com/package/zustand))
+- [Zustand](https://github.com/pmndrs/zustand) [![npm downloads](https://img.shields.io/npm/dw/zustand.svg?style=flat-square)](https://www.npmjs.com/package/zustand)
   - Bati: ??
-  - Extension: [WIP](https://github.com/vikejs/vike-react/pull/57/files), BLOCKED (Vike Extension should be able to add Vite plugins)
-- [Material UI](https://mui.com/material-ui) ([4M](https://www.npmjs.com/package/@mui/material))
+  - Extension: [vike-react-zustand](https://www.npmjs.com/package/vike-react-zustand)
+- [styled-components](https://styled-components.com) [![npm downloads](https://img.shields.io/npm/dw/styled-components.svg?style=flat-square)](https://www.npmjs.com/package/styled-components)
+  - Bati: ??
+  - Extension: [vike-react-styled-components](https://www.npmjs.com/package/vike-react-styled-components)
+- [Material UI](https://mui.com/material-ui) [![npm downloads](https://img.shields.io/npm/dw/@mui/material.svg?style=flat-square)](https://www.npmjs.com/package/@mui/material)
   - Bati: ??
   - Extension: ??
-- [Apollo GraphQL](https://www.apollographql.com/docs/react) ([3.5M](https://www.npmjs.com/package/@apollo/client))
+- [SWR](https://swr.vercel.app) [![npm downloads](https://img.shields.io/npm/dw/swr.svg?style=flat-square)](https://www.npmjs.com/package/swr)
+  - Bati: ??
+  - Extension: ??
+- [Apollo GraphQL](https://www.apollographql.com/docs/react) [![npm downloads](https://img.shields.io/npm/dw/@apollo/client.svg?style=flat-square)](https://www.npmjs.com/package/@apollo/client)
   - Bati: ??
   - Extension: [vike-react-apollo](https://www.npmjs.com/package/vike-react-apollo)
-- [SWR](https://swr.vercel.app) ([2.5M](https://www.npmjs.com/package/swr))
-  - Bati: ??
-  - Extension: ??
-- [Pinia](https://pinia.vuejs.org) ([1.6M](https://www.npmjs.com/package/pinia))
+- [Pinia](https://pinia.vuejs.org) [![npm downloads](https://img.shields.io/npm/dw/pinia.svg?style=flat-square)](https://www.npmjs.com/package/pinia)
   - Bati: ??
   - Extension: [vike-vue-pinia](https://www.npmjs.com/package/vike-vue-pinia)
-- [Ant Design](https://ant.design) ([1.5M](https://www.npmjs.com/package/antd))
+- [Ant Design](https://ant.design) [![npm downloads](https://img.shields.io/npm/dw/antd.svg?style=flat-square)](https://www.npmjs.com/package/antd)
   - Bati: ??
   - Extension: [vike-react-antd](https://www.npmjs.com/package/vike-react-antd)
-- [Jotai](https://jotai.org) ([1M](https://www.npmjs.com/package/jotai))
+- [Jotai](https://jotai.org) [![npm downloads](https://img.shields.io/npm/dw/jotai.svg?style=flat-square)](https://www.npmjs.com/package/jotai)
   - Bati: ??
   - Extension: ??
   - [Solid Jotai](https://github.com/wobsoriano/solid-jotai) ([npm](https://www.npmjs.com/package/solid-jotai))
     - Bati: ??
     - Extension: ??
-- [mobx-react](https://mobx.js.org/) ([1M](https://www.npmjs.com/package/mobx-react))
+- [mobx-react](https://mobx.js.org/) [![npm downloads](https://img.shields.io/npm/dw/mobx-react.svg?style=flat-square)](https://www.npmjs.com/package/mobx-react)
   - Bati: ??
   - Extension: ??
-- [Chakra UI](https://www.chakra-ui.com) ([641K](https://www.npmjs.com/package/@chakra-ui/react))
+- [Chakra UI](https://www.chakra-ui.com) [![npm downloads](https://img.shields.io/npm/dw/@chakra-ui/react.svg?style=flat-square)](https://www.npmjs.com/package/@chakra-ui/react)
   - Bati: ??
   - Extension: [vike-react-chakra](https://www.npmjs.com/package/vike-react-chakra)
-- [@tanstack/vue-query](https://tanstack.com/query/latest/docs/framework/vue/overview) ([153K](https://www.npmjs.com/package/@tanstack/vue-query))
+- [@tanstack/vue-query](https://tanstack.com/query/latest/docs/framework/vue/overview) [![npm downloads](https://img.shields.io/npm/dw/@tanstack/vue-query.svg?style=flat-square)](https://www.npmjs.com/package/@tanstack/vue-query)
   - Bati: ??
   - Extension: [vike-vue-query](https://www.npmjs.com/package/vike-vue-query)
-- [@tanstack/solid-query](https://tanstack.com/query/latest/docs/framework/solid/overview) ([11.8K](https://www.npmjs.com/package/@tanstack/solid-query))
+- [@tanstack/solid-query](https://tanstack.com/query/latest/docs/framework/solid/overview) [![npm downloads](https://img.shields.io/npm/dw/@tanstack/solid-query.svg?style=flat-square)](https://www.npmjs.com/package/@tanstack/solid-query)
   - Bati: ??
   - Extension: [vike-solid-query](https://www.npmjs.com/package/vike-solid-query)
 
