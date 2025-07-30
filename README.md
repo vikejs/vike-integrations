@@ -11,7 +11,7 @@ Let's mostly focus on React for now. Although we can also consider highly profil
   - Extension: ??
 - [Redux](https://redux.js.org) ([11M](https://www.npmjs.com/package/redux))
   - Bati: ??
-  - Extension: ??
+  - Extension: [vike-react-redux](https://www.npmjs.com/package/vike-react-redux)
 - [styled-jsx](https://github.com/vercel/styled-jsx) ([7.3M](https://www.npmjs.com/package/styled-jsx))
   - Bati: ??
   - Extension: [vike-react-styled-jsx](https://www.npmjs.com/package/vike-react-styled-jsx)
@@ -23,7 +23,7 @@ Let's mostly focus on React for now. Although we can also consider highly profil
   - Extension: [vike-react-query](https://www.npmjs.com/package/vike-react-query)
 - [Zustand](https://github.com/pmndrs/zustand) ([4.5M](https://www.npmjs.com/package/zustand))
   - Bati: ??
-  - Extension: [WIP](https://github.com/vikejs/vike-react/pull/57/files), BLOCKED (Vike Extension should be able to add Vite plugins)
+  - Extension: [vike-react-zustand](https://www.npmjs.com/package/vike-react-zustand)
 - [Material UI](https://mui.com/material-ui) ([4M](https://www.npmjs.com/package/@mui/material))
   - Bati: ??
   - Extension: ??
